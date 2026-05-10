@@ -1,5 +1,11 @@
-#web profile sekolah
-website profile sekolah sederhana 
+#web profile sekolah sederhana 
+
+Website profile sekolah sederhana berbasis PHP dan MySQL yang dibuat untuk memberikan informasi sekolah secara online.
+
+#Bahasa pemrograman 
+-PHP
+-JavaScript
+-CSS
 
 #FITUR
 - Beranda
@@ -9,6 +15,9 @@ website profile sekolah sederhana
 - Berita
 - Pengumuman
 - Kontak
+
+#Tampilan Website 
+Website memiliki tampilan sederhana, responsif, dan mudah digunakan.
 
 #Tujuan
 Website ini dibuat untuk memudahkan penyampaian informasi sekolah kepada siswa, orangtua dan masyarakat.
