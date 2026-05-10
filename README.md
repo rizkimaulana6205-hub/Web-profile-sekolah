@@ -21,3 +21,8 @@ Website memiliki tampilan sederhana, responsif, dan mudah digunakan.
 
 #Tujuan
 Website ini dibuat untuk memudahkan penyampaian informasi sekolah kepada siswa, orangtua dan masyarakat.
+
+#Manfaat website
+- Memudahkan penyampaian informasi sekolah kepada masyarakat.
+- Membantu promosi dan pengenalan sekolah secara online.
+- Menjadi sarana informasi yang mudah diakses kapan saja.
